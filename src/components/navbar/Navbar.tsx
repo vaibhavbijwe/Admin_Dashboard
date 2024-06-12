@@ -16,7 +16,7 @@ const Navbar = () => {
         </div>
         <div className="user">
           <img src="https://images.pexels.com/photos/11038549/pexels-photo-11038549.jpeg?auto=complete&cs=tinysrgb&w=1600&lazy=load" alt="" />
-          <span>Chetan</span>
+          <span>Vaibhav</span>
         </div>
         <img src="settings.svg" alt="" />
       </div>
